@@ -1,0 +1,10 @@
+.fullpage{
+height: 100vh;
+display: flex;
+flex: auto;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: #13657B;
+color: #A2F5E6
+}

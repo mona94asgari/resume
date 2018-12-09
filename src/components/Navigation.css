@@ -1,0 +1,22 @@
+.nav .first-button {
+    position: fixed;
+    top: 20px;
+    right: 50px;
+    background-color: #13657B;
+    border: #A2F5E6;
+    outline-color: #13657B;
+    font-size: 40px;
+    color: #A2F5E6;
+    cursor: pointer
+}
+.nav .second-button{
+    position: fixed;
+    top: 20px;
+    right: 190px;
+    background-color: #13657B;
+    border: #A2F5E6;
+    outline-color: #13657B;
+    font-size: 40px;
+    color: #A2F5E6;
+    cursor: pointer
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Hello! I'm Mona!",
+    "subtitle": "React.Js Dev | HTML & CSS | Front-End Enthusiastic",
+    "links": {
+        "github": "https://github.com/mona94asgari"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "P",
+                    "contents": "I like JavaScript and everything web. I built this site By React,JS and had so much fun along the way.(•◡•) I am also obsessed with making the web look pretty with CSS."
+                }
+            ]
+        },
+        {
+            "title": "Skills"
+        }
+    ],
+    "icons": {
+        "down": "images/down.png",
+        "top": "images/top.png"
+    }
+}
